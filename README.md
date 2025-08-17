@@ -36,7 +36,7 @@ El objetivo es **preprocesar los datos, entrenar distintos modelos de Machine Le
 ## Estructura del Repositorio
 ---
 
-## 🔎 Resultados principales
+## Resultados principales
 
 ### Rendimiento de modelos
 - **Regresión Logística**: 100% de accuracy, precision, recall y F1-score.  
@@ -67,7 +67,7 @@ El objetivo es **preprocesar los datos, entrenar distintos modelos de Machine Le
 
 ---
 
-## 🛠️ Tecnologías utilizadas
+## Tecnologías utilizadas
 - Python 3
 - Pandas, Numpy
 - Matplotlib, Seaborn
@@ -75,7 +75,7 @@ El objetivo es **preprocesar los datos, entrenar distintos modelos de Machine Le
 
 ---
 
-## 📌 Conclusión
+## Conclusión
 El análisis confirmó que los factores más determinantes del churn están relacionados con:
 - **Precio (cargos altos)**,
 - **Método de pago**,
