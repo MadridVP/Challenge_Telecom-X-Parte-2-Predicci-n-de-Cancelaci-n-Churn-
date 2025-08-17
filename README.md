@@ -40,7 +40,7 @@ El objetivo es **preprocesar los datos, entrenar distintos modelos de Machine Le
 
 ### Rendimiento de modelos
 - **Regresión Logística**: 100% de accuracy, precision, recall y F1-score.  
-  ⚠️ Posible sobreajuste (validar con cross-validation).
+   Posible sobreajuste (validar con cross-validation).
 - **Random Forest**: Accuracy ≈ 99.6%, Precision = 100%, Recall ≈ 98.6%, F1 ≈ 99.3%.  
   Más realista y robusto para producción.
 
